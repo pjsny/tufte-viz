@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "tufte-viz": {
+      "source": "pjsny/tufte-viz",
+      "sourceType": "github",
+      "skillPath": "skills/tufte-viz/SKILL.md",
+      "computedHash": "b81cac439ff6db2f47f911e428cf38c08f9c7d9d57261bb1cea72fad7bfd766b"
+    }
+  }
+}

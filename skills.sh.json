@@ -1,0 +1,10 @@
+{
+  "$schema": "https://skills.sh/schema/skills.sh.json",
+  "groupings": [
+    {
+      "title": "Visualization",
+      "description": "Edward Tufte's data visualization principles for AI agents",
+      "skills": ["tufte-viz"]
+    }
+  ]
+}
