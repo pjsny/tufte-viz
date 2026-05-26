@@ -1,5 +1,7 @@
 # tufte-viz
 
+[![skills.sh](https://skills.sh/b/pjsny/tufte-viz)](https://skills.sh/pjsny/tufte-viz)
+
 <img src="IMG_1620.JPG" alt="The Visual Display of Quantitative Information" width="300">
 
 Data visualization skill for AI coding agents based on Edward Tufte's principles from *The Visual Display of Quantitative Information*, *Envisioning Information*, *Visual Explanations*, and *Beautiful Evidence*.
